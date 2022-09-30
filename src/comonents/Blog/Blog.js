@@ -12,7 +12,7 @@ const Blog = () => {
                         <h2 className="accordion-header" id="headingOne">
                             <button className="accordion-button" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                How React Works ?
+                                How React.js Works ?
                             </button>
                         </h2>
                         <div id="collapseOne" classNameName="accordion-collapse collapse show" aria-labelledby="headingOne"
