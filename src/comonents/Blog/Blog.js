@@ -35,27 +35,13 @@ const Blog = () => {
                         <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <p>
-                                    <p>1.Syntax</p>
-                                    The first and most obvious difference between arrow functions and regular functions is
-                                    their syntax. Not only do they look different, but arrow functions also provide an
-                                    implicit return shorthand and allow parenthesis around a single argument to be omitted.
-                                </p>
-                                <p>
-                                    <p>2.this value</p>
-                                    Inside a regular function, execution context (i.e. the value of this) is dynamic. This
-                                    means that the value of this depends on how the function was invoked (simple invocation,
-                                    method invocation, indirect invocation or constructor invocation). On the other hand, an
-                                    arrow function does not define its own execution context. This results in an arrow
-                                    function's this being resolved lexically (i.e. the scope in which the arrow function was
-                                    defined).
-                                </p>
-                                <p>
-                                    <p>3.Methods</p>
-                                    Due to arrow functions not defining their own execution context, they're not well-suited
-                                    for usage as methods. However, thanks to the className fields proposal, arrow functions can
-                                    be used as methods inside classNamees, if your environment supports it.
-                                </p>
+                                <p>1.Props are read-only.On the other hand,State changes can be asynchronous.</p>
+                                <p>2.Props are immutable.On the other hand,	State is mutable.</p>
+                                <p>3.Props allow you to pass data from one component to other components as an argument.On the other hand,State holds information about the components.</p>
+                                <p>4.Props can be accessed by the child component.On the other hand,State cannot be accessed by child components.</p>
+                                <p>1.Props are read-only.On the other hand,State changes can be asynchronous.</p>
+                                <p>1.Props are read-only.On the other hand,State changes can be asynchronous.</p>
+
                             </div>
                         </div>
                     </div>
