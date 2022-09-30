@@ -40,7 +40,7 @@ const Blog = () => {
                                 <p>3.Props allow you to pass data from one component to other components as an argument.On the other hand,State holds information about the components.</p>
                                 <p>4.Props can be accessed by the child component.On the other hand,State cannot be accessed by child components.</p>
                                 <p>5.Stateless component can have Props.On the other hand,Stateless components cannot have State.</p>
-                                <p>1.Props are read-only.On the other hand,State changes can be asynchronous.</p>
+                                <p>6.Props make components reusableOn the other hand,State cannot make components reusable.</p>
 
                             </div>
                         </div>
