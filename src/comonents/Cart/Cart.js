@@ -69,9 +69,9 @@ const Cart = () => {
 
     return (
         <div className='bg-light divide'>
-            <div>
+            <div className='resize'>
                 <h1 className='text-primary ms-5 mt-5'>Make-yourself-Fit</h1>
-                <div className="mt-3 ms-5 mb-5 me-5 row row-cols-2 row-cols-md-3 g-4">
+                <div className="mt-3 ms-5 mb-5 me-5 row row-cols-1 row-cols-lg-3 g-4">
                     {
                         exercises.map(ex => <Items
                             exercise={ex}
@@ -81,11 +81,12 @@ const Cart = () => {
                         ></Items>)
                     }
                 </div>
-                <div>
+                <div className='mb-5'>
                     {
                         <Blog></Blog>
                     }
                 </div>
+                <footer className='align'>@ copyright</footer>
             </div>
             <div className='stick pt-5 ps-4'>
                 <h5>Mohammad Mohiuddin</h5>

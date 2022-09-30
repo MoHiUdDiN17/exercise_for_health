@@ -4,7 +4,7 @@
         "age": "20-40",
         "time": "10s",
         "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/12299/3e0ec03d-cab2-47e9-ac18-ad07502280aa.jpg",
-        "text": "Stand tall with your feet together and arms at your sides.Bend your elbows and swing your arms as you lift your knees.March slower and don't lift your knees as high.",
+        "text": "Stand tall with your feet together and arms at your sides.Bend your elbows and swing your arms as you lift your knees.March slower and don't lift your knees.",
         "exercise": "Marching in place"
     },
     {
@@ -12,7 +12,7 @@
         "age": "15-40",
         "time": "15s",
         "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/12300/828d8022-c8d8-4a37-97f7-7be0183ea02f.jpg",
-        "text": "Stand with your feet shoulder-width apart, arms at your sides.Slowly bend your hips and knees, lowering your buttocks about eight inches, as if you're sitting back into a chair.",
+        "text": "Stand with your feet shoulder-width apart, arms at your sides.Slowly bend your hips and knees, lowering your buttocks about eight inches, as if you're sitting back.",
         "exercise": "Squat"
     },
     {
@@ -20,7 +20,7 @@
         "age": "20-30",
         "time": "20s",
         "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/12301/dd36cd98-fd8c-48ea-8c39-15832866ce9c.jpg",
-        "text": " Lie on your back with your legs extended on the floor.Relax your shoulders against the floor. Bend your left knee and place your left foot on your right thigh just above the knee.",
+        "text": " Lie on your back with your legs extended on the floor.Relax your shoulders against the floor. Bend your left knee and place your left foot on your right thigh just.",
         "exercise": "Single knee rotation"
     },
     {
@@ -28,7 +28,7 @@
         "age": "15-50",
         "time": "25s",
         "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/12302/184a494f-df2d-49eb-82f2-bfd47ab41d39.jpg",
-        "text": "Stand up straight with your feet together and your hands on your hips.Lift your left knee toward the ceiling as high as is comfortable or until your thigh is parallel to the floor",
+        "text": "Stand up straight with your feet together and your hands on your hips.Lift your left knee toward the ceiling as high as is comfortable or until your thigh is parallel.",
         "exercise": "Standing knee lift"
     },
     {
@@ -36,7 +36,7 @@
         "age": "15-30",
         "time": "40s",
         "img": "https://images.unsplash.com/photo-1560089000-7433a4ebbd64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHN3aW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "text": "Swimming is an individual or team racing sport that requires the use of one's entire body to move through water. The sport takes place in pools or open water (e.g., in a sea or lake).",
+        "text": "Swimming is an individual or team racing sport that requires the use of one's entire body to move through water. The sport takes place in pools or open water.",
         "exercise": "Swimming"
     },
     {
@@ -44,7 +44,7 @@
         "age": "20-40",
         "time": "30s",
         "img": "https://images.unsplash.com/photo-1559166631-ef208440c75a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGpvZ2dpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "text": "Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body or to maintain a steady speed.",
+        "text": "Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress or to maintain a steady speed.",
         "exercise": "jogging"
     }
 ]

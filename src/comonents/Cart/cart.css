@@ -1,9 +1,14 @@
 .divide {
     display: flex;
+    width: 100%;
+}
+
+.resize {
+    width: 75%;
 }
 
 .stick {
-    width: 2000px;
+    width: 25%;
     height: 100%;
     background-color: white;
     position: sticky;
@@ -29,4 +34,19 @@
 .cent {
     padding: 10px 0 10px 0;
     width: 96%;
+}
+
+.align {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+@media only screen and (max-width: 900px) {
+    .resize {
+        width: 50%;
+    }
+
+    .stick {
+        width: 50%;
+    }
 }
