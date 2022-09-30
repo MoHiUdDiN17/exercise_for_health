@@ -56,10 +56,7 @@ const Blog = () => {
                             data-bs-parent="#accordionExample">
                             <div className="accordion-body">
                                 <p>
-                                    Template strings are a powerful feature of modern JavaScript released in ES6. It
-                                    lets us insert/interpolate variables and expressions into strings without needing to
-                                    concatenate like in older versions of JavaScript. It allows us to create strings
-                                    that are complex and contain dynamic elements.
+                                    you tell React that your component needs to do something after render. React will remember the function you passed (we’ll refer to it as our “effect”), and call it later after performing the DOM updates. In this effect, we set the document title, but we could also perform data fetching or call some other imperative API.
                                 </p>
                             </div>
                         </div>
