@@ -1,0 +1,9 @@
+.circle {
+    background-color: white;
+    padding: 12px 10px 10px 10px;
+    border-radius: 30px;
+}
+
+.circle:hover {
+    background-color: blue;
+}

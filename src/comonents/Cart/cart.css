@@ -1,0 +1,32 @@
+.divide {
+    display: flex;
+}
+
+.stick {
+    width: 2000px;
+    height: 100%;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
+
+.row-split {
+    border-radius: 5px;
+    display: flex;
+    background-color: rgb(193, 230, 230);
+    padding: 10px;
+}
+
+.clr {
+    border-radius: 5px;
+    display: flex;
+    background-color: rgb(193, 230, 230);
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cent {
+    padding: 10px 0 10px 0;
+    width: 96%;
+}
