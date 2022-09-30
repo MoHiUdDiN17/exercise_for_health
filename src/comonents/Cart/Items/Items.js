@@ -13,7 +13,7 @@ const Items = (props) => {
                 <img src={img} className='card-img-top' alt="" />
                 <div className='card-body'>
                     <h5 className='card-title'>{exercise}</h5>
-                    <p className='card-text'>{text}</p>
+                    <p className='card-text'>{text.slice(0, 140)}...</p>
                     <h5>For Age: {age}</h5>
                     <h5>Time required: {time}</h5>
                     <br></br>

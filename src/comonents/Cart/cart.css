@@ -49,4 +49,8 @@
     .stick {
         width: 50%;
     }
+
+    .divide {
+        overflow-x: hidden;
+    }
 }
