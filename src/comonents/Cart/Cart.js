@@ -36,9 +36,15 @@ const Cart = () => {
     const [isActive, setIsActive] = useState(-1);
     const [isbutton, setIsbutton] = useState(-1);
     useEffect(() => {
-        fetch('input.json')
-            .then(res => res.json())
-            .then(data => setExercise(data))
+        // fetch('input.json')
+        //     .then(res => res.json())
+        //     .then(data => setExercise(data))
+        const fetchData = async () => {
+            const response = await fetch('input.json');
+            const data = await response.json();
+            setExercise(data);
+        }
+        fetchData();
     }, [])
     const addcart = (key) => {
         for (const exer of exercises) {
